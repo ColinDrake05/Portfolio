@@ -10,10 +10,10 @@
 
 ## 📜 Certifications (In Progress)
 - [ ] Google IT Support
-- [ ] Google Cybersecurity
+- [ Earned ] Google Cybersecurity
 - [ ] Google Data Analytics
 - [ ] Google AI/ML (TensorFlow)
-- [ ] Microsoft or CompTIA Security+ (Planned)
+- [ ] Microsoft or CompTIA Security+ 
 
 ## 🛠️ Projects
 | Project | Description | Tech Used |
